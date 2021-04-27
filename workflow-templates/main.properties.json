@@ -1,0 +1,11 @@
+{
+    "name"         : "JBZoo - General Testing",
+    "description"  : "JBZoo Organization CI workflow template.",
+    "iconName"     : "check-square",
+    "categories"   : [
+        "PHP"
+    ],
+    "filePatterns" : [
+        "composer.json$"
+    ]
+}
