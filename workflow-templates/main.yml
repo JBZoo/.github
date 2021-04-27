@@ -7,7 +7,7 @@ on:
   push:
     branches: [ $default-branch ]
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: '47 */8 * * *'
 
 env:
   COLUMNS: 120
@@ -82,7 +82,3 @@ jobs:
       - name: 👍 Code Quality
         continue-on-error: ${{ matrix.experimental }}
         run: make codestyle --no-print-directory
-
-
-/Users/smetdenis/Work/projects/jbzoo-ci-report-converter/:
-  :
