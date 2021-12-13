@@ -1,4 +1,4 @@
-## 👋  Hi there ![](https://visitor-badge.glitch.me/badge?page_id=jbzoo) 
+## 👋  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jbzoo&left_text=Hi%20There)
 
 <!--
 
