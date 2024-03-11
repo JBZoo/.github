@@ -1,3 +1,3 @@
 ## 👋 Hi there, I'm Denis
 
-CI Dashboard for the [is here](https://github.com/SmetDenis).
+See CI Dashboard for the org [here](https://github.com/SmetDenis).
